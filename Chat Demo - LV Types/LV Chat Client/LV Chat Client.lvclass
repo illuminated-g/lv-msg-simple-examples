@@ -56,11 +56,11 @@
 		<Item Name="Userlist Message Callback.vi" Type="VI" URL="../Userlist Message Callback.vi">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$V!!!!#!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!"Z!=!!?!!!/4'&amp;C6EF&amp;6S"09GJF9X1!"5^X&lt;G6S!$J!=!!?!!!J&amp;V.U=G6B&lt;3V4;7VQ&lt;'5N48.H,GRW&lt;'FC$UVF=X.B:W5O&lt;(:D&lt;'&amp;T=Q!(476T=W&amp;H:1"5!0!!$!!$!!1!"!!%!!1!"!!%!!5!"!!%!!1!"A)!!(A!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!3!!!!!!!!!!!!!!!!!!!!%!!!!!!"!!=!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1611145729</Property>
 		</Item>
 	</Item>
 	<Item Name="Private" Type="Folder">

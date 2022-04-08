@@ -27,6 +27,7 @@
 		<Item Name="Launch Server.vi" Type="VI" URL="../Chat Demo - LV Types/Launch Server.vi"/>
 		<Item Name="LV Chat Client.lvclass" Type="LVClass" URL="../Chat Demo - LV Types/LV Chat Client/LV Chat Client.lvclass"/>
 		<Item Name="LV Chat Server.lvclass" Type="LVClass" URL="../Chat Demo - LV Types/LV Chat Server/LV Chat Server.lvclass"/>
+		<Item Name="tcp-serialization.vi" Type="VI" URL="../test/tcp-serialization.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
@@ -87,16 +88,16 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{BBEC0169-D23A-4AD1-BC8D-978242317E4F}</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">LVChat-Client.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Client/LVChat-Client.exe</Property>
+				<Property Name="Destination[0].destName" Type="Str">LVChat.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/NI_AB_PROJECTNAME/Client/LVChat.exe</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Client/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F6A1467F-1B96-4B46-AEF2-CF52D7B06000}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8ED08D21-C803-4B8C-A25D-ABDD88F8029C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/LV Chat Client.lvclass/Public/Client UI.vi</Property>
@@ -109,7 +110,7 @@
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2022 National Instruments</Property>
 				<Property Name="TgtF_productName" Type="Str">Client</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{7D33C8D8-F1FF-43AB-80AC-DAE42E44685F}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">LVChat-Client.exe</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">LVChat.exe</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Server" Type="EXE">
@@ -137,7 +138,7 @@
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
 				<Property Name="Destination[1].path" Type="Path">../builds/NI_AB_PROJECTNAME/Server/data</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
-				<Property Name="Source[0].itemID" Type="Str">{F6A1467F-1B96-4B46-AEF2-CF52D7B06000}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{8ED08D21-C803-4B8C-A25D-ABDD88F8029C}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Launch Server.vi</Property>

@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-11-02 13:08:38" Modified_Date="2022-11-09 23:27:10" Creator="Localization Tester" Comments="" ID="893c5f4fc8538e3474aca15d106ab279">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-11-02 13:08:38" Modified_Date="2022-11-10 19:27:00" Creator="Localization Tester" Comments="" ID="596adfb59faf0e325c94489e22aa4c51">
   <Library_General_Settings>
     <Package_File_Name>IlluminatedG_lib_IG_Stream_Messaging_Examples</Package_File_Name>
-    <Library_Version>1.0.0.9</Library_Version>
+    <Library_Version>1.0.0.10</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\vip</Library_Output_Folder>
@@ -17,13 +17,13 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_simple_msg &gt;= 1.0.0.33</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_simple_msg &gt;= 1.0.0.35</External_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_stream_base &gt;= 1.2.0.46</External_Dependencies>
-      <External_Dependencies>illuminatedg_lib_ig_tcp_stream &gt;= 0.1.0.40</External_Dependencies>
+      <External_Dependencies>illuminatedg_lib_ig_tcp_stream &gt;= 0.1.0.42</External_Dependencies>
       <External_Dependencies>illuminatedg_lib_ig_web&amp;crypto &gt;= 0.1.0.9</External_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_simple_msg-1.0.0.33</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_simple_msg-1.0.0.35</Direct_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_stream_base-1.2.0.46</Direct_Dependencies>
-      <Direct_Dependencies>illuminatedg_lib_ig_tcp_stream-0.1.0.40</Direct_Dependencies>
+      <Direct_Dependencies>illuminatedg_lib_ig_tcp_stream-0.1.0.42</Direct_Dependencies>
       <Direct_Dependencies>illuminatedg_lib_ig_web&amp;crypto-0.1.0.9</Direct_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
